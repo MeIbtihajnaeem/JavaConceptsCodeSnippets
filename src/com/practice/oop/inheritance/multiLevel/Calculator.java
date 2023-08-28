@@ -1,4 +1,4 @@
-package com.practice.oop.inheritance.withMethods;
+package com.practice.oop.inheritance.multiLevel;
 
 public class Calculator {
 
