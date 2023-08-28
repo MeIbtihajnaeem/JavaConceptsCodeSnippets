@@ -1,4 +1,4 @@
-package com.practice.oop.inheritance;
+package com.practice.oop.inheritance.simple;
 
 public class MainClass {
 

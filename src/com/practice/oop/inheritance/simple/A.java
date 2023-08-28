@@ -1,4 +1,4 @@
-package com.practice.oop.inheritance;
+package com.practice.oop.inheritance.simple;
 
 // super() for A is their by default since very class in JAVA
 // Extends Object class by default
