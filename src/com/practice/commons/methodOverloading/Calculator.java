@@ -1,4 +1,4 @@
-package com.practice.common_topics.method_overloading;
+package com.practice.commons.methodOverloading;
 
 public class Calculator {
 

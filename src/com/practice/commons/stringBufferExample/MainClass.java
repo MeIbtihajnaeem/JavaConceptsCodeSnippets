@@ -1,4 +1,4 @@
-package com.practice.common_topics.string_buffer_example;
+package com.practice.commons.stringBufferExample;
 
 public class MainClass {
 
