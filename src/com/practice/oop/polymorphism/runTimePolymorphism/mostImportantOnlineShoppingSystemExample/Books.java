@@ -1,4 +1,4 @@
-package com.practice.oop.polymorphism.runTimePolymorphism.onlineShoppingSystemExample;
+package com.practice.oop.polymorphism.runTimePolymorphism.mostImportantOnlineShoppingSystemExample;
 
 public class Books extends Product {
 	final String author;
