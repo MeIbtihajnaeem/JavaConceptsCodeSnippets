@@ -1,4 +1,4 @@
-package com.practice.oop.innerClass;
+package com.practice.oop.innerClass.simple_example;
 
 public class MainClass {
 
